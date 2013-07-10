@@ -3,7 +3,7 @@
 This is an example Rails 3 application that demonstrates the use of
 caching using the [MemCachier
 addon](http://addons.heroku.com/memcachier) on Heroku. This example is
-written with Rails 3.1.
+written with Rails 3.2.
 
 You can read the full text of the Heroku Dev Center article
 [here](http://devcenter.heroku.com/articles/building-a-rails-3-application-with-the-memcache-addon).
