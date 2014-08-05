@@ -1,4 +1,4 @@
-# MemCachier Rails 3 Example
+# MemCachier Rails 3 Example App
 
 This is an example Rails 3 application that demonstrates the use of
 caching using the [MemCachier
@@ -10,6 +10,12 @@ You can read the full text of the Heroku Dev Center article
 
 You can see this app in action on Heroku
 [here](http://memcachier-examples-rails3.herokuapp.com/).
+
+## Deploy to Heroku
+
+You can deploy this app yourself to Heroku to play with.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Setup MemCachier
 

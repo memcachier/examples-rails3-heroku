@@ -1,0 +1,8 @@
+{
+  "name": "MemCachier Rails 3 Example App",
+  "description": "Ruby-on-Rails (3.2) app illustrating how to use MemCachier",
+  "repository": "https://github.com/memcachier/examples-rails3-heroku",
+  "logo": "https://www.memcachier.com/assets/logo-large.png",
+  "keywords": ["ruby", "rails", "memcache", "memcachier", "caching" ],
+  "addons": [ "memcachier" ]
+}
