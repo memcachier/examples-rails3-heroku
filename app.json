@@ -4,5 +4,5 @@
   "repository": "https://github.com/memcachier/examples-rails3-heroku",
   "logo": "https://www.memcachier.com/assets/logo-large.png",
   "keywords": ["ruby", "rails", "memcache", "memcachier", "caching" ],
-  "addons": [ "memcachier" ]
+  "addons": [ "memcachier", "heroku-postgresql" ]
 }

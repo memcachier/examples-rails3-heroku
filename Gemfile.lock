@@ -120,7 +120,7 @@ DEPENDENCIES
   rails_12factor
   sass-rails (~> 3.2.3)
   sqlite3
-  uglifier (>= 1.0.3)
+  uglifier (>= 2.1.1)
 
 BUNDLED WITH
    1.11.2
