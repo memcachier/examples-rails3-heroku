@@ -7,6 +7,8 @@ written with Rails 3.2.
 
 You can read the full text of the Heroku Dev Center article
 [here](http://devcenter.heroku.com/articles/building-a-rails-3-application-with-the-memcache-addon).
+*Update: This article is now updated for Rails 5. The corresponding example app
+is [here](https://github.com/memcachier/examples-rails-heroku).*
 
 You can see this app in action on Heroku
 [here](http://memcachier-examples-rails3.herokuapp.com/).
@@ -80,9 +82,8 @@ Please report bugs via the
 
 Master [git repository](http://github.com/memcachier/examples-rails3-heroku):
 
-* `git clone git://github.com/memcachier/examples-rails3-heroku.git` 
+* `git clone git://github.com/memcachier/examples-rails3-heroku.git`
 
 ## Licensing
 
 This library is BSD-licensed.
-
